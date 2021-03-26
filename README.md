@@ -1,1 +1,1 @@
-# Statistical_Thinking_Part_1
+# Statistics with Python
